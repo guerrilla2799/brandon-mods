@@ -1,0 +1,1 @@
+{"name": "usage-view", "version": "0.3.0", "description": "A pane and status line showing the signed-in profile, context fill and plan usage (5-hour, weekly)", "author": {"name": "Brandon Redlinger"}, "types": "./types/index.d.ts"}

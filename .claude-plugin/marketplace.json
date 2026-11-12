@@ -1,0 +1,20 @@
+{
+  "name": "brandon-mods",
+  "owner": {
+    "name": "Brandon Redlinger"
+  },
+  "plugins": [
+    {
+      "name": "client-status-line",
+      "source": "./client-status-line"
+    },
+    {
+      "name": "model-router",
+      "source": "./model-router"
+    },
+    {
+      "name": "usage-view",
+      "source": "./usage-view"
+    }
+  ]
+}

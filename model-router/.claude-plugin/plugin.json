@@ -1,0 +1,1 @@
+{ "name": "model-router", "version": "0.1.0", "description": "Picks Haiku, Sonnet, Opus or Fable per prompt by rules, sticky to protect the cache; force with !opus or /route", "author": { "name": "Brandon Redlinger" }, "types": "./types/index.d.ts" }

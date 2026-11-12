@@ -1,0 +1,1 @@
+{"name": "client-status-line", "version": "0.2.0", "description": "Shows the session's client and brand folder under the prompt, and warns when Claude opens another client's folder", "author": {"name": "Brandon Redlinger"}, "types": "./types/index.d.ts"}
